@@ -16,6 +16,7 @@ export const Input = styled(Field)`
   height: 30px;
   border: 2px solid #36a9ae;
   border-radius: 5px;
+  padding-left: 12px;
 `;
 export const LabelBox = styled.div`
   margin-bottom: 20px;
